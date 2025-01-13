@@ -1,10 +1,10 @@
 # Prime Video Dashboard
 
-<h2> `Overview`</h2>
+## `Overview`
 
 This project is a Power BI dashboard that provides insights into the data of Prime Video's content library. It showcases key metrics like total titles, genres, ratings, countries, and release years, offering a comprehensive view of the platform's offerings. The dashboard is visually designed to support data-driven decisions and analysis.
 
-<h2>`Features`</h2>
+## `Features`
 
 * Total Titles: Displays the overall count of available titles.
 
@@ -26,7 +26,7 @@ This project is a Power BI dashboard that provides insights into the data of Pri
 
 * Release Year Distribution: Shows the count of titles released over the years.
 
-<h2>`Tools Used`</h2>
+## `Tools Used`
 
 * Power BI: Used for data visualization and dashboard creation.
 
